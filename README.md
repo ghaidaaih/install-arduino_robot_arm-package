@@ -26,14 +26,17 @@
  at the end of the (bashrc) file 
  after the following 2 line
  
-  `source /apt/ros/noetic/setup.bash <br> source /home/<your user name>/catkin_ws/devel/setup.bash`
+ `  source /apt/ros/noetic/setup.bash` 
+ `  source /home/<your user name>/catkin_ws/devel/setup.bash`
   
  add the following line
  ```sh
  source /home/<your user name>/catkin_ws/devel/setup.bash
   ```
  then tape in 
- ctrl + o  <br> enter  <br> ctrl + x
+ <br> ctrl + o
+ <br> enter
+ <br> ctrl + x
    
 3. to Controlling the motors
  ```sh

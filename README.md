@@ -26,9 +26,9 @@
  at the end of the (bashrc) file 
  after the following 2 line
  <br>
-  &nbsp;&nbsp; source /apt/ros/noetic/setup.bash
+  &nbsp;&nbsp;&nbsp;&nbsp; source /apt/ros/noetic/setup.bash
  <br>
-  source /home/<your user name>/catkin_ws/devel/setup.bash
+  &nbsp;&nbsp;&nbsp;&nbsp; source /home/<your user name>/catkin_ws/devel/setup.bash
 
  <br>
  add the following line
@@ -36,9 +36,9 @@
  source /home/<your user name>/catkin_ws/devel/setup.bash
   ```
  then tape in 
- <br> ctrl + o
- <br> enter
- <br> ctrl + x
+ <br> &nbsp;&nbsp;&nbsp;&nbsp; ctrl + o
+ <br> &nbsp;&nbsp;&nbsp;&nbsp; enter
+ <br> &nbsp;&nbsp;&nbsp;&nbsp; ctrl + x
    
 3. to Controlling the motors
  ```sh

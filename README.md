@@ -37,7 +37,7 @@
   ```
  then tape in 
  <br> &nbsp;&nbsp;&nbsp;&nbsp; ctrl + o
- <br> &nbsp;&nbsp;&nbsp;&nbsp; enter
+ <br> &nbsp;&nbsp;&nbsp;&nbsp; Enter
  <br> &nbsp;&nbsp;&nbsp;&nbsp; ctrl + x
    
 3. to Controlling the motors

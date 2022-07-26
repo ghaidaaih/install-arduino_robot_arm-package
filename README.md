@@ -31,7 +31,7 @@ at the end of the (bashrc) file
  <br>
   &nbsp;&nbsp;&nbsp;&nbsp; source /home/<your user name>/catkin_ws/devel/setup.bash
  <br>
- 
+ <br>
  add the following line
  <br>
  
@@ -45,7 +45,7 @@ source /home/<your user name>/catkin_ws/devel/setup.bash
  <br> &nbsp;&nbsp;&nbsp;&nbsp; Enter
  <br> &nbsp;&nbsp;&nbsp;&nbsp; ctrl + x
  
- <br><br>
+ <br>
 3. to Controlling the motors
  
  ```sh

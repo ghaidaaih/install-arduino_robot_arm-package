@@ -26,9 +26,9 @@
  at the end of the (bashrc) file 
  after the following 2 line
  <br>
-  source /apt/ros/noetic/setup.bash
+  <space>source /apt/ros/noetic/setup.bash
  <br>
-  source /home/<your user name>/catkin_ws/devel/setup.bash
+  <space>source /home/<your user name>/catkin_ws/devel/setup.bash
 
  <br>
  add the following line
@@ -36,9 +36,9 @@
  source /home/<your user name>/catkin_ws/devel/setup.bash
   ```
  then tape in 
- <br> ctrl + o
- <br> enter
- <br> ctrl + x
+ <br><space> ctrl + o
+ <br><space> enter
+ <br><space> ctrl + x
    
 3. to Controlling the motors
  ```sh
@@ -47,4 +47,5 @@ roslaunch robot_arm_pkg check_motors.launch
    ```
    
  **out put :**
+ <br>
  ![out put](https://user-images.githubusercontent.com/109582339/181009715-5c348ff1-2007-4e16-a578-e21aa8952085.PNG) 

@@ -26,11 +26,9 @@
  at the end of the (bashrc) file 
  after the following 2 line
  <br>
- My text in an purple box.
-{: .alert .alert-gitlab-purple}
- source /apt/ros/noetic/setup.bash
+     source /apt/ros/noetic/setup.bash
  <br>
- source /home/<your user name>/catkin_ws/devel/setup.bash
+     source /home/<your user name>/catkin_ws/devel/setup.bash
 
  <br>
  add the following line

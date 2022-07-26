@@ -29,9 +29,9 @@
   &nbsp;&nbsp;&nbsp;&nbsp; source /apt/ros/noetic/setup.bash
  <br>
   &nbsp;&nbsp;&nbsp;&nbsp; source /home/<your user name>/catkin_ws/devel/setup.bash
-
  <br>
- **add the following line**
+ 
+ add the following line 
  <br>
  
   ```sh
@@ -39,6 +39,7 @@ source /home/<your user name>/catkin_ws/devel/setup.bash
    ```
  <br>
  then tape in 
+ 
  <br> &nbsp;&nbsp;&nbsp;&nbsp; ctrl + o
  <br> &nbsp;&nbsp;&nbsp;&nbsp; Enter
  <br> &nbsp;&nbsp;&nbsp;&nbsp; ctrl + x

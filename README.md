@@ -25,7 +25,6 @@
    ```
 at the end of the (bashrc) file 
  after the following 2 line
- 
  <br>
   &nbsp;&nbsp;&nbsp;&nbsp; source /apt/ros/noetic/setup.bash
  <br>

@@ -27,10 +27,10 @@ output :
    ```
  at the end of the (bashrc) file 
  after the following 2 line
- <span style="color: gray">
+ <font color="color: gray">
    source /apt/ros/noetic/setup.bash
    source /home/<your user name>/catkin_ws/devel/setup.bash
-  </span>
+  </font>
  add the following line
  ```sh
  source /home/<your user name>/catkin_ws/devel/setup.bash

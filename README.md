@@ -13,8 +13,6 @@
  sudo apt install git 
  git clone https://github.com/smart-methods/arduino_robot_arm
    ```
-output :
-
 3. install all the dependencies
  ```sh
  cd ~/catkin_ws
@@ -27,10 +25,10 @@ output :
    ```
  at the end of the (bashrc) file 
  after the following 2 line
- <font color="color: gray">
-   source /apt/ros/noetic/setup.bash
-   source /home/<your user name>/catkin_ws/devel/setup.bash
-  </font>
+ 
+  `source /apt/ros/noetic/setup.bash
+   source /home/<your user name>/catkin_ws/devel/setup.bash`
+  
  add the following line
  ```sh
  source /home/<your user name>/catkin_ws/devel/setup.bash
@@ -45,5 +43,6 @@ output :
  source ~/.bashrc
 roslaunch robot_arm_pkg check_motors.launch
    ```
- output :  
-  
+   
+ **output :**
+ ![]() 

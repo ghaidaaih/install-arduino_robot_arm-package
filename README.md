@@ -46,5 +46,5 @@
 roslaunch robot_arm_pkg check_motors.launch
    ```
    
- **output :**
- ![]() 
+ **out put :**
+ ![out put](<img width="636" alt="rviz" src="https://user-images.githubusercontent.com/109582339/181009715-5c348ff1-2007-4e16-a578-e21aa8952085.PNG">) 

@@ -36,9 +36,9 @@
   ```sh
 source /home/<your user name>/catkin_ws/devel/setup.bash
    ```
+ 
  <br>
  **then tape in** 
- 
  <br> &nbsp;&nbsp;&nbsp;&nbsp; ctrl + o
  <br> &nbsp;&nbsp;&nbsp;&nbsp; Enter
  <br> &nbsp;&nbsp;&nbsp;&nbsp; ctrl + x

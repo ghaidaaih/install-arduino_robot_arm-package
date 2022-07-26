@@ -27,10 +27,11 @@
  after the following 2 line
  <br>
  <span style="color: red;">
- `source /apt/ros/noetic/setup.bash`
+   source /apt/ros/noetic/setup.bash
  <br>
- `source /home/<your user name>/catkin_ws/devel/setup.bash`
+   source /home/<your user name>/catkin_ws/devel/setup.bash
 </span>
+ <br>
  add the following line
  ```sh
  source /home/<your user name>/catkin_ws/devel/setup.bash

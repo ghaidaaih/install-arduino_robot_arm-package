@@ -25,11 +25,12 @@
    ```
  at the end of the (bashrc) file 
  after the following 2 line
- <span style="color:red">
- ` <span style="color:red"> source /apt/ros/noetic/setup.bash </span>`
  <br>
- `  source /home/<your user name>/catkin_ws/devel/setup.bash`
-
+ <span style="color: red;">
+ `source /apt/ros/noetic/setup.bash`
+ <br>
+ `source /home/<your user name>/catkin_ws/devel/setup.bash`
+</span>
  add the following line
  ```sh
  source /home/<your user name>/catkin_ws/devel/setup.bash

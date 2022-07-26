@@ -32,6 +32,7 @@
 
  <br>
  add the following line
+ <br>
  ```sh
  source /home/<your user name>/catkin_ws/devel/setup.bash
   ```

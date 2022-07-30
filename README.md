@@ -45,7 +45,7 @@ source /home/<your user name>/catkin_ws/devel/setup.bash
  
  <br>
  
-3. to Controlling the motors
+3. to Control the motors
  
  ```sh
  source ~/.bashrc
